@@ -1,0 +1,13 @@
+===== BASELINE (FCFS) =====
+Sequence: ['J1', 'J2', 'J3', 'J4', 'J5', 'J6', 'J7', 'J8']
+Makespan: 79.00
+Total Waiting Time: 31.00
+Total Machine Idle Time: 62.00
+
+===== ACO OPTIMIZED =====
+Best Sequence: ['J7', 'J4', 'J6', 'J2', 'J8', 'J1', 'J3', 'J5']
+Best Makespan: 70.00
+Total Waiting Time: 25.00
+Total Machine Idle Time: 44.00
+
+Makespan Improvement: 11.39%

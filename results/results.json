@@ -1,0 +1,1130 @@
+{
+  "dataset": {
+    "rows": [
+      {
+        "JobID": "J001",
+        "ProductFamily": "PumpHousing",
+        "BatchSize": 180,
+        "DueDateHours": 72,
+        "Priority": 5,
+        "M1_Cutting": 38,
+        "M2_Drilling": 52,
+        "M3_Welding": 44,
+        "M4_Painting": 30,
+        "M5_Assembly": 49
+      },
+      {
+        "JobID": "J002",
+        "ProductFamily": "ValveBody",
+        "BatchSize": 120,
+        "DueDateHours": 64,
+        "Priority": 4,
+        "M1_Cutting": 27,
+        "M2_Drilling": 48,
+        "M3_Welding": 39,
+        "M4_Painting": 41,
+        "M5_Assembly": 35
+      },
+      {
+        "JobID": "J003",
+        "ProductFamily": "GearCase",
+        "BatchSize": 160,
+        "DueDateHours": 80,
+        "Priority": 3,
+        "M1_Cutting": 41,
+        "M2_Drilling": 45,
+        "M3_Welding": 50,
+        "M4_Painting": 33,
+        "M5_Assembly": 46
+      },
+      {
+        "JobID": "J004",
+        "ProductFamily": "Impeller",
+        "BatchSize": 90,
+        "DueDateHours": 56,
+        "Priority": 5,
+        "M1_Cutting": 24,
+        "M2_Drilling": 34,
+        "M3_Welding": 30,
+        "M4_Painting": 36,
+        "M5_Assembly": 28
+      },
+      {
+        "JobID": "J005",
+        "ProductFamily": "Shaft",
+        "BatchSize": 220,
+        "DueDateHours": 88,
+        "Priority": 2,
+        "M1_Cutting": 43,
+        "M2_Drilling": 51,
+        "M3_Welding": 47,
+        "M4_Painting": 29,
+        "M5_Assembly": 52
+      },
+      {
+        "JobID": "J006",
+        "ProductFamily": "BearingCap",
+        "BatchSize": 140,
+        "DueDateHours": 60,
+        "Priority": 4,
+        "M1_Cutting": 31,
+        "M2_Drilling": 40,
+        "M3_Welding": 35,
+        "M4_Painting": 38,
+        "M5_Assembly": 33
+      },
+      {
+        "JobID": "J007",
+        "ProductFamily": "Coupling",
+        "BatchSize": 200,
+        "DueDateHours": 76,
+        "Priority": 3,
+        "M1_Cutting": 36,
+        "M2_Drilling": 49,
+        "M3_Welding": 42,
+        "M4_Painting": 34,
+        "M5_Assembly": 45
+      },
+      {
+        "JobID": "J008",
+        "ProductFamily": "Flange",
+        "BatchSize": 110,
+        "DueDateHours": 52,
+        "Priority": 5,
+        "M1_Cutting": 26,
+        "M2_Drilling": 37,
+        "M3_Welding": 32,
+        "M4_Painting": 39,
+        "M5_Assembly": 31
+      },
+      {
+        "JobID": "J009",
+        "ProductFamily": "Manifold",
+        "BatchSize": 170,
+        "DueDateHours": 84,
+        "Priority": 2,
+        "M1_Cutting": 40,
+        "M2_Drilling": 53,
+        "M3_Welding": 48,
+        "M4_Painting": 35,
+        "M5_Assembly": 50
+      },
+      {
+        "JobID": "J010",
+        "ProductFamily": "Bracket",
+        "BatchSize": 150,
+        "DueDateHours": 68,
+        "Priority": 4,
+        "M1_Cutting": 32,
+        "M2_Drilling": 42,
+        "M3_Welding": 37,
+        "M4_Painting": 40,
+        "M5_Assembly": 34
+      },
+      {
+        "JobID": "J011",
+        "ProductFamily": "Casing",
+        "BatchSize": 210,
+        "DueDateHours": 92,
+        "Priority": 2,
+        "M1_Cutting": 45,
+        "M2_Drilling": 55,
+        "M3_Welding": 51,
+        "M4_Painting": 32,
+        "M5_Assembly": 54
+      },
+      {
+        "JobID": "J012",
+        "ProductFamily": "Nozzle",
+        "BatchSize": 130,
+        "DueDateHours": 58,
+        "Priority": 5,
+        "M1_Cutting": 29,
+        "M2_Drilling": 39,
+        "M3_Welding": 34,
+        "M4_Painting": 37,
+        "M5_Assembly": 32
+      },
+      {
+        "JobID": "J013",
+        "ProductFamily": "RotorHub",
+        "BatchSize": 190,
+        "DueDateHours": 78,
+        "Priority": 3,
+        "M1_Cutting": 37,
+        "M2_Drilling": 50,
+        "M3_Welding": 43,
+        "M4_Painting": 34,
+        "M5_Assembly": 47
+      },
+      {
+        "JobID": "J014",
+        "ProductFamily": "SealPlate",
+        "BatchSize": 125,
+        "DueDateHours": 62,
+        "Priority": 4,
+        "M1_Cutting": 30,
+        "M2_Drilling": 41,
+        "M3_Welding": 36,
+        "M4_Painting": 38,
+        "M5_Assembly": 33
+      },
+      {
+        "JobID": "J015",
+        "ProductFamily": "Diffuser",
+        "BatchSize": 175,
+        "DueDateHours": 82,
+        "Priority": 3,
+        "M1_Cutting": 39,
+        "M2_Drilling": 52,
+        "M3_Welding": 46,
+        "M4_Painting": 35,
+        "M5_Assembly": 49
+      },
+      {
+        "JobID": "J016",
+        "ProductFamily": "MountingBase",
+        "BatchSize": 205,
+        "DueDateHours": 86,
+        "Priority": 2,
+        "M1_Cutting": 42,
+        "M2_Drilling": 54,
+        "M3_Welding": 49,
+        "M4_Painting": 33,
+        "M5_Assembly": 51
+      },
+      {
+        "JobID": "J017",
+        "ProductFamily": "ClampSet",
+        "BatchSize": 100,
+        "DueDateHours": 54,
+        "Priority": 5,
+        "M1_Cutting": 25,
+        "M2_Drilling": 36,
+        "M3_Welding": 31,
+        "M4_Painting": 39,
+        "M5_Assembly": 30
+      },
+      {
+        "JobID": "J018",
+        "ProductFamily": "GuideVane",
+        "BatchSize": 165,
+        "DueDateHours": 74,
+        "Priority": 3,
+        "M1_Cutting": 35,
+        "M2_Drilling": 47,
+        "M3_Welding": 41,
+        "M4_Painting": 34,
+        "M5_Assembly": 44
+      },
+      {
+        "JobID": "J019",
+        "ProductFamily": "CoverPlate",
+        "BatchSize": 145,
+        "DueDateHours": 66,
+        "Priority": 4,
+        "M1_Cutting": 33,
+        "M2_Drilling": 43,
+        "M3_Welding": 38,
+        "M4_Painting": 37,
+        "M5_Assembly": 35
+      },
+      {
+        "JobID": "J020",
+        "ProductFamily": "Adaptor",
+        "BatchSize": 155,
+        "DueDateHours": 70,
+        "Priority": 4,
+        "M1_Cutting": 34,
+        "M2_Drilling": 44,
+        "M3_Welding": 40,
+        "M4_Painting": 36,
+        "M5_Assembly": 38
+      }
+    ],
+    "machineColumns": [
+      "M1_Cutting",
+      "M2_Drilling",
+      "M3_Welding",
+      "M4_Painting",
+      "M5_Assembly"
+    ]
+  },
+  "metrics": {
+    "baselineMakespan": 1064.0,
+    "bestMakespan": 1040.0,
+    "improvementPercent": 2.2556390977443606,
+    "baselineWaiting": 2393.0,
+    "bestWaiting": 2022.0,
+    "baselineIdle": 779.0,
+    "bestIdle": 703.0
+  },
+  "bestSequence": [
+    "J004",
+    "J006",
+    "J008",
+    "J020",
+    "J013",
+    "J007",
+    "J002",
+    "J009",
+    "J011",
+    "J003",
+    "J010",
+    "J005",
+    "J001",
+    "J016",
+    "J015",
+    "J018",
+    "J017",
+    "J019",
+    "J014",
+    "J012"
+  ],
+  "convergence": [
+    1052.0,
+    1052.0,
+    1051.0,
+    1046.0,
+    1046.0,
+    1046.0,
+    1046.0,
+    1046.0,
+    1046.0,
+    1046.0,
+    1046.0,
+    1046.0,
+    1046.0,
+    1046.0,
+    1046.0,
+    1046.0,
+    1046.0,
+    1046.0,
+    1046.0,
+    1046.0,
+    1046.0,
+    1046.0,
+    1046.0,
+    1046.0,
+    1046.0,
+    1046.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0,
+    1040.0
+  ],
+  "machineUtilization": [
+    {
+      "machine": "M1_Cutting",
+      "utilizationPercent": 66.0576923076923
+    },
+    {
+      "machine": "M2_Drilling",
+      "utilizationPercent": 87.6923076923077
+    },
+    {
+      "machine": "M3_Welding",
+      "utilizationPercent": 78.17307692307692
+    },
+    {
+      "machine": "M4_Painting",
+      "utilizationPercent": 68.26923076923077
+    },
+    {
+      "machine": "M5_Assembly",
+      "utilizationPercent": 78.46153846153847
+    }
+  ],
+  "gantt": [
+    {
+      "machine": "M1_Cutting",
+      "jobId": "J004",
+      "start": 0.0,
+      "end": 24.0,
+      "duration": 24.0
+    },
+    {
+      "machine": "M1_Cutting",
+      "jobId": "J006",
+      "start": 24.0,
+      "end": 55.0,
+      "duration": 31.0
+    },
+    {
+      "machine": "M1_Cutting",
+      "jobId": "J008",
+      "start": 55.0,
+      "end": 81.0,
+      "duration": 26.0
+    },
+    {
+      "machine": "M1_Cutting",
+      "jobId": "J020",
+      "start": 81.0,
+      "end": 115.0,
+      "duration": 34.0
+    },
+    {
+      "machine": "M1_Cutting",
+      "jobId": "J013",
+      "start": 115.0,
+      "end": 152.0,
+      "duration": 37.0
+    },
+    {
+      "machine": "M1_Cutting",
+      "jobId": "J007",
+      "start": 152.0,
+      "end": 188.0,
+      "duration": 36.0
+    },
+    {
+      "machine": "M1_Cutting",
+      "jobId": "J002",
+      "start": 188.0,
+      "end": 215.0,
+      "duration": 27.0
+    },
+    {
+      "machine": "M1_Cutting",
+      "jobId": "J009",
+      "start": 215.0,
+      "end": 255.0,
+      "duration": 40.0
+    },
+    {
+      "machine": "M1_Cutting",
+      "jobId": "J011",
+      "start": 255.0,
+      "end": 300.0,
+      "duration": 45.0
+    },
+    {
+      "machine": "M1_Cutting",
+      "jobId": "J003",
+      "start": 300.0,
+      "end": 341.0,
+      "duration": 41.0
+    },
+    {
+      "machine": "M1_Cutting",
+      "jobId": "J010",
+      "start": 341.0,
+      "end": 373.0,
+      "duration": 32.0
+    },
+    {
+      "machine": "M1_Cutting",
+      "jobId": "J005",
+      "start": 373.0,
+      "end": 416.0,
+      "duration": 43.0
+    },
+    {
+      "machine": "M1_Cutting",
+      "jobId": "J001",
+      "start": 416.0,
+      "end": 454.0,
+      "duration": 38.0
+    },
+    {
+      "machine": "M1_Cutting",
+      "jobId": "J016",
+      "start": 454.0,
+      "end": 496.0,
+      "duration": 42.0
+    },
+    {
+      "machine": "M1_Cutting",
+      "jobId": "J015",
+      "start": 496.0,
+      "end": 535.0,
+      "duration": 39.0
+    },
+    {
+      "machine": "M1_Cutting",
+      "jobId": "J018",
+      "start": 535.0,
+      "end": 570.0,
+      "duration": 35.0
+    },
+    {
+      "machine": "M1_Cutting",
+      "jobId": "J017",
+      "start": 570.0,
+      "end": 595.0,
+      "duration": 25.0
+    },
+    {
+      "machine": "M1_Cutting",
+      "jobId": "J019",
+      "start": 595.0,
+      "end": 628.0,
+      "duration": 33.0
+    },
+    {
+      "machine": "M1_Cutting",
+      "jobId": "J014",
+      "start": 628.0,
+      "end": 658.0,
+      "duration": 30.0
+    },
+    {
+      "machine": "M1_Cutting",
+      "jobId": "J012",
+      "start": 658.0,
+      "end": 687.0,
+      "duration": 29.0
+    },
+    {
+      "machine": "M2_Drilling",
+      "jobId": "J004",
+      "start": 24.0,
+      "end": 58.0,
+      "duration": 34.0
+    },
+    {
+      "machine": "M2_Drilling",
+      "jobId": "J006",
+      "start": 58.0,
+      "end": 98.0,
+      "duration": 40.0
+    },
+    {
+      "machine": "M2_Drilling",
+      "jobId": "J008",
+      "start": 98.0,
+      "end": 135.0,
+      "duration": 37.0
+    },
+    {
+      "machine": "M2_Drilling",
+      "jobId": "J020",
+      "start": 135.0,
+      "end": 179.0,
+      "duration": 44.0
+    },
+    {
+      "machine": "M2_Drilling",
+      "jobId": "J013",
+      "start": 179.0,
+      "end": 229.0,
+      "duration": 50.0
+    },
+    {
+      "machine": "M2_Drilling",
+      "jobId": "J007",
+      "start": 229.0,
+      "end": 278.0,
+      "duration": 49.0
+    },
+    {
+      "machine": "M2_Drilling",
+      "jobId": "J002",
+      "start": 278.0,
+      "end": 326.0,
+      "duration": 48.0
+    },
+    {
+      "machine": "M2_Drilling",
+      "jobId": "J009",
+      "start": 326.0,
+      "end": 379.0,
+      "duration": 53.0
+    },
+    {
+      "machine": "M2_Drilling",
+      "jobId": "J011",
+      "start": 379.0,
+      "end": 434.0,
+      "duration": 55.0
+    },
+    {
+      "machine": "M2_Drilling",
+      "jobId": "J003",
+      "start": 434.0,
+      "end": 479.0,
+      "duration": 45.0
+    },
+    {
+      "machine": "M2_Drilling",
+      "jobId": "J010",
+      "start": 479.0,
+      "end": 521.0,
+      "duration": 42.0
+    },
+    {
+      "machine": "M2_Drilling",
+      "jobId": "J005",
+      "start": 521.0,
+      "end": 572.0,
+      "duration": 51.0
+    },
+    {
+      "machine": "M2_Drilling",
+      "jobId": "J001",
+      "start": 572.0,
+      "end": 624.0,
+      "duration": 52.0
+    },
+    {
+      "machine": "M2_Drilling",
+      "jobId": "J016",
+      "start": 624.0,
+      "end": 678.0,
+      "duration": 54.0
+    },
+    {
+      "machine": "M2_Drilling",
+      "jobId": "J015",
+      "start": 678.0,
+      "end": 730.0,
+      "duration": 52.0
+    },
+    {
+      "machine": "M2_Drilling",
+      "jobId": "J018",
+      "start": 730.0,
+      "end": 777.0,
+      "duration": 47.0
+    },
+    {
+      "machine": "M2_Drilling",
+      "jobId": "J017",
+      "start": 777.0,
+      "end": 813.0,
+      "duration": 36.0
+    },
+    {
+      "machine": "M2_Drilling",
+      "jobId": "J019",
+      "start": 813.0,
+      "end": 856.0,
+      "duration": 43.0
+    },
+    {
+      "machine": "M2_Drilling",
+      "jobId": "J014",
+      "start": 856.0,
+      "end": 897.0,
+      "duration": 41.0
+    },
+    {
+      "machine": "M2_Drilling",
+      "jobId": "J012",
+      "start": 897.0,
+      "end": 936.0,
+      "duration": 39.0
+    },
+    {
+      "machine": "M3_Welding",
+      "jobId": "J004",
+      "start": 58.0,
+      "end": 88.0,
+      "duration": 30.0
+    },
+    {
+      "machine": "M3_Welding",
+      "jobId": "J006",
+      "start": 98.0,
+      "end": 133.0,
+      "duration": 35.0
+    },
+    {
+      "machine": "M3_Welding",
+      "jobId": "J008",
+      "start": 135.0,
+      "end": 167.0,
+      "duration": 32.0
+    },
+    {
+      "machine": "M3_Welding",
+      "jobId": "J020",
+      "start": 179.0,
+      "end": 219.0,
+      "duration": 40.0
+    },
+    {
+      "machine": "M3_Welding",
+      "jobId": "J013",
+      "start": 229.0,
+      "end": 272.0,
+      "duration": 43.0
+    },
+    {
+      "machine": "M3_Welding",
+      "jobId": "J007",
+      "start": 278.0,
+      "end": 320.0,
+      "duration": 42.0
+    },
+    {
+      "machine": "M3_Welding",
+      "jobId": "J002",
+      "start": 326.0,
+      "end": 365.0,
+      "duration": 39.0
+    },
+    {
+      "machine": "M3_Welding",
+      "jobId": "J009",
+      "start": 379.0,
+      "end": 427.0,
+      "duration": 48.0
+    },
+    {
+      "machine": "M3_Welding",
+      "jobId": "J011",
+      "start": 434.0,
+      "end": 485.0,
+      "duration": 51.0
+    },
+    {
+      "machine": "M3_Welding",
+      "jobId": "J003",
+      "start": 485.0,
+      "end": 535.0,
+      "duration": 50.0
+    },
+    {
+      "machine": "M3_Welding",
+      "jobId": "J010",
+      "start": 535.0,
+      "end": 572.0,
+      "duration": 37.0
+    },
+    {
+      "machine": "M3_Welding",
+      "jobId": "J005",
+      "start": 572.0,
+      "end": 619.0,
+      "duration": 47.0
+    },
+    {
+      "machine": "M3_Welding",
+      "jobId": "J001",
+      "start": 624.0,
+      "end": 668.0,
+      "duration": 44.0
+    },
+    {
+      "machine": "M3_Welding",
+      "jobId": "J016",
+      "start": 678.0,
+      "end": 727.0,
+      "duration": 49.0
+    },
+    {
+      "machine": "M3_Welding",
+      "jobId": "J015",
+      "start": 730.0,
+      "end": 776.0,
+      "duration": 46.0
+    },
+    {
+      "machine": "M3_Welding",
+      "jobId": "J018",
+      "start": 777.0,
+      "end": 818.0,
+      "duration": 41.0
+    },
+    {
+      "machine": "M3_Welding",
+      "jobId": "J017",
+      "start": 818.0,
+      "end": 849.0,
+      "duration": 31.0
+    },
+    {
+      "machine": "M3_Welding",
+      "jobId": "J019",
+      "start": 856.0,
+      "end": 894.0,
+      "duration": 38.0
+    },
+    {
+      "machine": "M3_Welding",
+      "jobId": "J014",
+      "start": 897.0,
+      "end": 933.0,
+      "duration": 36.0
+    },
+    {
+      "machine": "M3_Welding",
+      "jobId": "J012",
+      "start": 936.0,
+      "end": 970.0,
+      "duration": 34.0
+    },
+    {
+      "machine": "M4_Painting",
+      "jobId": "J004",
+      "start": 88.0,
+      "end": 124.0,
+      "duration": 36.0
+    },
+    {
+      "machine": "M4_Painting",
+      "jobId": "J006",
+      "start": 133.0,
+      "end": 171.0,
+      "duration": 38.0
+    },
+    {
+      "machine": "M4_Painting",
+      "jobId": "J008",
+      "start": 171.0,
+      "end": 210.0,
+      "duration": 39.0
+    },
+    {
+      "machine": "M4_Painting",
+      "jobId": "J020",
+      "start": 219.0,
+      "end": 255.0,
+      "duration": 36.0
+    },
+    {
+      "machine": "M4_Painting",
+      "jobId": "J013",
+      "start": 272.0,
+      "end": 306.0,
+      "duration": 34.0
+    },
+    {
+      "machine": "M4_Painting",
+      "jobId": "J007",
+      "start": 320.0,
+      "end": 354.0,
+      "duration": 34.0
+    },
+    {
+      "machine": "M4_Painting",
+      "jobId": "J002",
+      "start": 365.0,
+      "end": 406.0,
+      "duration": 41.0
+    },
+    {
+      "machine": "M4_Painting",
+      "jobId": "J009",
+      "start": 427.0,
+      "end": 462.0,
+      "duration": 35.0
+    },
+    {
+      "machine": "M4_Painting",
+      "jobId": "J011",
+      "start": 485.0,
+      "end": 517.0,
+      "duration": 32.0
+    },
+    {
+      "machine": "M4_Painting",
+      "jobId": "J003",
+      "start": 535.0,
+      "end": 568.0,
+      "duration": 33.0
+    },
+    {
+      "machine": "M4_Painting",
+      "jobId": "J010",
+      "start": 572.0,
+      "end": 612.0,
+      "duration": 40.0
+    },
+    {
+      "machine": "M4_Painting",
+      "jobId": "J005",
+      "start": 619.0,
+      "end": 648.0,
+      "duration": 29.0
+    },
+    {
+      "machine": "M4_Painting",
+      "jobId": "J001",
+      "start": 668.0,
+      "end": 698.0,
+      "duration": 30.0
+    },
+    {
+      "machine": "M4_Painting",
+      "jobId": "J016",
+      "start": 727.0,
+      "end": 760.0,
+      "duration": 33.0
+    },
+    {
+      "machine": "M4_Painting",
+      "jobId": "J015",
+      "start": 776.0,
+      "end": 811.0,
+      "duration": 35.0
+    },
+    {
+      "machine": "M4_Painting",
+      "jobId": "J018",
+      "start": 818.0,
+      "end": 852.0,
+      "duration": 34.0
+    },
+    {
+      "machine": "M4_Painting",
+      "jobId": "J017",
+      "start": 852.0,
+      "end": 891.0,
+      "duration": 39.0
+    },
+    {
+      "machine": "M4_Painting",
+      "jobId": "J019",
+      "start": 894.0,
+      "end": 931.0,
+      "duration": 37.0
+    },
+    {
+      "machine": "M4_Painting",
+      "jobId": "J014",
+      "start": 933.0,
+      "end": 971.0,
+      "duration": 38.0
+    },
+    {
+      "machine": "M4_Painting",
+      "jobId": "J012",
+      "start": 971.0,
+      "end": 1008.0,
+      "duration": 37.0
+    },
+    {
+      "machine": "M5_Assembly",
+      "jobId": "J004",
+      "start": 124.0,
+      "end": 152.0,
+      "duration": 28.0
+    },
+    {
+      "machine": "M5_Assembly",
+      "jobId": "J006",
+      "start": 171.0,
+      "end": 204.0,
+      "duration": 33.0
+    },
+    {
+      "machine": "M5_Assembly",
+      "jobId": "J008",
+      "start": 210.0,
+      "end": 241.0,
+      "duration": 31.0
+    },
+    {
+      "machine": "M5_Assembly",
+      "jobId": "J020",
+      "start": 255.0,
+      "end": 293.0,
+      "duration": 38.0
+    },
+    {
+      "machine": "M5_Assembly",
+      "jobId": "J013",
+      "start": 306.0,
+      "end": 353.0,
+      "duration": 47.0
+    },
+    {
+      "machine": "M5_Assembly",
+      "jobId": "J007",
+      "start": 354.0,
+      "end": 399.0,
+      "duration": 45.0
+    },
+    {
+      "machine": "M5_Assembly",
+      "jobId": "J002",
+      "start": 406.0,
+      "end": 441.0,
+      "duration": 35.0
+    },
+    {
+      "machine": "M5_Assembly",
+      "jobId": "J009",
+      "start": 462.0,
+      "end": 512.0,
+      "duration": 50.0
+    },
+    {
+      "machine": "M5_Assembly",
+      "jobId": "J011",
+      "start": 517.0,
+      "end": 571.0,
+      "duration": 54.0
+    },
+    {
+      "machine": "M5_Assembly",
+      "jobId": "J003",
+      "start": 571.0,
+      "end": 617.0,
+      "duration": 46.0
+    },
+    {
+      "machine": "M5_Assembly",
+      "jobId": "J010",
+      "start": 617.0,
+      "end": 651.0,
+      "duration": 34.0
+    },
+    {
+      "machine": "M5_Assembly",
+      "jobId": "J005",
+      "start": 651.0,
+      "end": 703.0,
+      "duration": 52.0
+    },
+    {
+      "machine": "M5_Assembly",
+      "jobId": "J001",
+      "start": 703.0,
+      "end": 752.0,
+      "duration": 49.0
+    },
+    {
+      "machine": "M5_Assembly",
+      "jobId": "J016",
+      "start": 760.0,
+      "end": 811.0,
+      "duration": 51.0
+    },
+    {
+      "machine": "M5_Assembly",
+      "jobId": "J015",
+      "start": 811.0,
+      "end": 860.0,
+      "duration": 49.0
+    },
+    {
+      "machine": "M5_Assembly",
+      "jobId": "J018",
+      "start": 860.0,
+      "end": 904.0,
+      "duration": 44.0
+    },
+    {
+      "machine": "M5_Assembly",
+      "jobId": "J017",
+      "start": 904.0,
+      "end": 934.0,
+      "duration": 30.0
+    },
+    {
+      "machine": "M5_Assembly",
+      "jobId": "J019",
+      "start": 934.0,
+      "end": 969.0,
+      "duration": 35.0
+    },
+    {
+      "machine": "M5_Assembly",
+      "jobId": "J014",
+      "start": 971.0,
+      "end": 1004.0,
+      "duration": 33.0
+    },
+    {
+      "machine": "M5_Assembly",
+      "jobId": "J012",
+      "start": 1008.0,
+      "end": 1040.0,
+      "duration": 32.0
+    }
+  ]
+}
