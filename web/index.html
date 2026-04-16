@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ACO Manufacturing Scheduler Dashboard</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1>Ant Colony Optimization for Manufacturing Job Scheduling</h1>
+      <p>Production dataset analytics and scheduling visualization</p>
+    </header>
+
+    <main>
+      <section class="card">
+        <h2>Run Steps</h2>
+        <ol>
+          <li>Run <code>python run_cli.py</code> to regenerate optimization results.</li>
+          <li>Open this page using a local server from project root:</li>
+        </ol>
+        <pre><code>python -m http.server 8000</code></pre>
+        <p>Then browse to <code>http://localhost:8000/web/</code>.</p>
+      </section>
+
+      <section class="grid metrics">
+        <div class="metric"><span>Baseline Makespan</span><strong id="baselineMakespan">-</strong></div>
+        <div class="metric"><span>ACO Makespan</span><strong id="bestMakespan">-</strong></div>
+        <div class="metric"><span>Improvement</span><strong id="improvement">-</strong></div>
+        <div class="metric"><span>Idle Time (Baseline -> ACO)</span><strong id="idleChange">-</strong></div>
+      </section>
+
+      <section class="grid two-col">
+        <div class="card">
+          <h2>Convergence (Iteration vs Makespan)</h2>
+          <canvas id="convergenceChart"></canvas>
+        </div>
+        <div class="card">
+          <h2>Machine Utilization (%)</h2>
+          <canvas id="utilizationChart"></canvas>
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>Best Job Sequence</h2>
+        <p id="bestSequence"></p>
+      </section>
+
+      <section class="card">
+        <h2>Gantt-style Schedule (Optimized)</h2>
+        <div id="ganttContainer" class="gantt"></div>
+      </section>
+
+      <section class="card">
+        <h2>Production Dataset</h2>
+        <div class="table-wrap">
+          <table id="datasetTable">
+            <thead></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
